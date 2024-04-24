@@ -7,4 +7,4 @@ The system should handler the following tasks:
 <li>Provide undo&redo command</li>
 <li>Handler exceptional cases</li>
 </ol>
-Please read <a href="https://github.com/zyucidam/cs2312_assignment/blob/master/Main.java" title="Main.java"></a> for more details.
+Please read Main.java for more details.
